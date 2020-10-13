@@ -9,16 +9,16 @@
         "teams": [
           {
             "teamCode": "74",
-            "teamName": "東京直営チーム",
+            "teamName": "teamName1",
             "sas": [
               {
                 "saCode": "967805",
-                "saName": "野堀 穣士",
+                "saName": "SA 1",
                 "teamCode": "74",
                 "stores": [
                   {
                     "storeCode": "00048",
-                    "storeName": "赤羽南店",
+                    "storeName": "storeName 1",
                     "saCode": "967805",
                     "startTime": "20190621",
                     "endTime": "20190628",
